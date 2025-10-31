@@ -17,8 +17,8 @@
       "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/Skysec0230/clockworkbow1.0",
-  "manifest": "https://raw.githubusercontent.com/Skysec0230/clockworkbow1.0/main/clockwork-bow-manifest.json",
-  "download": "https://github.com/Skysec0230/clockworkbow1.0/raw/main/clockwork-bow-module-5.1.zip",
+  "url": "https://github.com/Skysec0230/clockworkbow1.0.5",
+  "manifest": "https://github.com/Skysec0230/Clockwork-Bow-v1.0.5/main/clockwork-bow-manifest.json",
+  "download": "https://github.com/Skysec0230/Clockwork-Bow-v1.0.5/raw/main/clockwork-bow-module-ready.zip",
   "readme": "https://raw.githubusercontent.com/Skysec0230/clockworkbow1.0/main/README-clockwork-bow.md"
 }
